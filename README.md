@@ -10,6 +10,7 @@ It demonstrates how to connect with Gemini via Python SDK, configure environment
 - Tested Gemini 2.5 Flash for text generation using Streaming Responses.
 - Tested Gemini 2.5 Flash for text generation using Image as an Input (HipHop Image).
 - Applied Custom Parameters of Gemini Model to pass on to model.
+- Examples are related on my interest which is HipHop Music.
 
 ## Repo Structure
 - `notebooks/` → Jupyter notebooks (experiments + learnings)
