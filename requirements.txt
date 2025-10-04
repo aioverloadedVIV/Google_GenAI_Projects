@@ -1,5 +1,6 @@
-google-generativeai
+google-generativeai #v0.8.5
 python-dotenv
+python #3.12
 os
 tqdm
 pillow
